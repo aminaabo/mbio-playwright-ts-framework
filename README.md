@@ -54,7 +54,6 @@ npm run report
   - mobile breakpoint navigation accessibility
   - content loading timeout behavior
 - Bonus coverage
-  - simple API/network response validation for the homepage document
   - parameterized test data in `tests/data/navigation.ts`
   - basic GitHub Actions CI in `.github/workflows/playwright.yml`
 
