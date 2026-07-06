@@ -62,7 +62,7 @@ npm run report
 The GitHub Actions pipeline runs on pushes. It installs dependencies, installs Playwright browsers, runs the Playwright tests, and uploads the report.
 
 
-```md
+
 # Task 2 – QA Strategy & Thinking
 
 ## 1. Where Do You Start?
@@ -103,5 +103,4 @@ The biggest concern for me would be anything that affects users’ money, securi
 
 For example, incorrect balances, wrong trade execution, failed withdrawals, duplicated transactions, login/security issues, or the app crashing during high market activity.
 
-Before release, I would want to make sure the critical flows are tested, regression tests have passed, and there are no open high-severity bugs. For a trading app, accuracy and reliability are more important than releasing quickly.
-```
+Before release, I would want to make sure the critical flows are tested, regression tests have passed, and there are no open high severity bugs. For a trading app, accuracy and reliability are more important than releasing quickly.
